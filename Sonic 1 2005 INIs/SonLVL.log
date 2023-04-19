@@ -1,0 +1,15 @@
+Operating system: Microsoft Windows NT 5.1.2600 Service Pack 2
+Opening INI file "C:\Dokumente und Einstellungen\André\Desktop\Assembly\S1TSS\Sonic 1_ The Special Stages\SonLVL\Sonic 1 2005 INIs\S1LVL.ini"...
+Game type is S1.
+Loading Green Hill Zone Act 1...
+8x8 tile file "../artnem/8x8ghz1.bin" not found.
+8x8 tile file "../artnem/8x8ghz2.bin" not found.
+16x16 block file "../map16/GHZ.bin" not found.
+256x256 chunk file "../map256/GHZ.bin" not found.
+FG layout file "../levels/ghz1.bin" not found.
+BG layout file "../levels/ghzbg.bin" not found.
+Loading palette file "../pallet/sonic.bin"...
+Source: 0 Destination: 0 Length: 16
+System.IO.FileNotFoundException: Palette file could not be loaded! Have you set up your disassembly properly?
+File name: '../pallet/sonic.bin'
+   at SonicRetro.SonLVL.MainForm.backgroundWorker1_DoWork(Object sender, DoWorkEventArgs e) in C:\RetroSVN\Programs\SonLVL\SonLVL\MainForm.cs:line 660
