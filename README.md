@@ -8,6 +8,7 @@ Please give credit, where credit is due, unless you remove certain parts to whic
 
 # Credits:
 
+- neonsynth: Project lead and code
 - vladikcomper: For creating the main menu and info screen
 - MarkeyJester: For helping me fixing some bugs I couldn't fix
 
