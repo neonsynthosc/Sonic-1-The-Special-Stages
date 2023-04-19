@@ -1,6 +1,6 @@
 # Sonic 1: The Special Stages
 
-An old romhack from 2012, focusing the gameplay on he Sonic 1 special stages.
+An old romhack from 2012, focusing the gameplay on the Sonic 1 special stages.
 
 So I decided to make this open source. Feel free to fork this and experiment with it or continue work on it.
 Please give credit, where credit is due, unless you remove certain parts to which people have contributed to.
